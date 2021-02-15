@@ -6,5 +6,7 @@ dependencies:
   - scipy
   - matplotlib
   - ipympl
+  - nodejs
+  - jupyterlab
   - voila
  
