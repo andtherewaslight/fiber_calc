@@ -1,8 +1,6 @@
 ipywidgets
-bqplot
 numpy
 scipy
 matplotlib
 ipympl
-nodejs
 nbinteract
